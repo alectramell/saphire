@@ -1,4 +1,6 @@
-# Saphire Engine for Apollon Data Metrics
+# ADM Saphire Engine
+  ..Code Network URL..
+  http://pegasus.zohosites.com/
 
 (1) Download..
 
@@ -18,7 +20,6 @@ Click on the icon that is labeled "Saphire Mail" and lock it to your launcher!
 
 ..yur done!
 
-Apollon Data Metrics Agency
-Code Network URL: 
+Available Utilities:
 
-http://pegasus.zohosites.com/
+(+) Saphire Mail for Gmail
