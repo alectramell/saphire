@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Firefox
+Comment=Firefox for Saphire
+Categories=GNOME;Utility;
+Exec=firefox --new-window=http://pegasus.zohosites.com
+Icon=/home/alectramell/saphire/firefox/firefox.svg
+Terminal=false
+Type=Application
+

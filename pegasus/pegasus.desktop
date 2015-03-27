@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Pegasus
+Comment=Pegasus ADM Code Network
+Categories=GNOME;Utility;
+Exec=sensible-browser --new-window=http://pegasus.zohosites.com
+Icon=/home/alectramell/saphire/pegasus/pegasus64x64.png
+Terminal=false
+Type=Application
+
