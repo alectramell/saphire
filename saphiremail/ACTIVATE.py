@@ -8,7 +8,7 @@ username = str(username)
 
 deskitem = str("""
 [Desktop Entry]
-Name=Saphire Mail
+Name=Saphire Gmail
 Comment=ssmtp utility for gmail
 Categories=GNOME;Utility;
 Exec=python /home/""" + username + """/saphire/saphiremail/__main__.py &

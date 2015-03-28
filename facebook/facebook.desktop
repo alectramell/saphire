@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Name=Facebook
+Comment=Facebook for Saphire
+Categories=GNOME;Utility;
+Exec=sensible-browser --new-window=https://facebook.com/apollondma
+Icon=/home/alectramell/saphire/facebook/fb64x64.png
+Terminal=false
+Type=Application
+
