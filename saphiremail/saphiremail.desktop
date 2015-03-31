@@ -1,6 +1,6 @@
 
 [Desktop Entry]
-Name=Saphire Gmail
+Name=Gmail
 Comment=ssmtp utility for gmail
 Categories=GNOME;Utility;
 Exec=python /home/alectramell/saphire/saphiremail/__main__.py &
